@@ -106,18 +106,7 @@
 </build>
 </profile>
   
-  <distributionManagement>
-    <repository>
-        <id>central</id>
-        <name>071f94332fb5-releases</name>
-        <url>http://13.233.179.105:8081/artifactory/exampletest</url>
-    </repository>
-    <snapshotRepository>
-        <id>snapshots</id>
-        <name>071f94332fb5-snapshots</name>
-        <url>http://13.233.179.105:8081/artifactory/exampletest</url>
-    </snapshotRepository>
-</distributionManagement>
+ 
   
   
   
