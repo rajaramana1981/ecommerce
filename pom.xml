@@ -99,6 +99,7 @@
  </plugins>
 </build>
 </profile> 
+</profiles> 
 <repositories>
     <repository>
         <id>central</id>
@@ -136,6 +137,5 @@
 	
 	
 	
-</profiles> 
- 
+
 </project>
