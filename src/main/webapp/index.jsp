@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html> 
  <head> 
-<title> <p align ="center"> <i> Welcome to Wezva Technologies </i></p>  </title> 
+<title> <p align ="center"> Welcome to Wezva Technologies </p>  </title> 
   </head> 
 <body>
 
