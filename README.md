@@ -1,2 +1,1 @@
-# ecommerce
-new
+CHECK ECOMMERCE DOCKER IMAGE 
