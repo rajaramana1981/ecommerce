@@ -14,14 +14,6 @@
    
 <a href="https://www.google.com/" target="_blank">Programs Offered</a>
 
-<ul>
-   <li>python</li>
-   <li>kubernetes</li>
-   <li>agile</li>
-   <li>jenkins</li>
-   <li>docker</li>
-</ul>
 
-</table>
 </body>
 </html>
