@@ -1,18 +1,17 @@
 <!DOCTYPE html>
 <html> 
  <head> 
-<title> <p align ="center"> Welcome to Wezva Technologies </p>  </title> 
+<title> Welcome to Wezva Technologies   </title> 
   </head> 
 <body>
 
  <h1 color=red>My First Website</h1>
-   <h2 colore=green>Wezva Technologies</h2>
-   <h3 colore=yellow>Devops</h3>
-   <h4>Aws</h4>
-   <h5>python</h5>
-   <h6>Kubernetes</h6>
+   <h2 color=green>Wezva Technologies</h2>
+   <h3 color=yellow>Devops</h3>
+   <h4 color=purple> Aws</h4>
+   <h5 color=brown>python</h5>
+   <h6 color=darkblue>Kubernetes</h6>
    
-<a href="https://www.google.com/" target="_blank">Programs Offered</a>
 
 
 </body>
